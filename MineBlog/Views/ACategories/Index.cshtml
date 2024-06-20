@@ -1,0 +1,54 @@
+﻿@model IEnumerable<MineBlog.Models.Category>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+<!-- Normal Breadcrumb Begin -->
+<section class="normal-breadcrumb set-bg" style="background-image: url(/img/normal-breadcrumb.jpg)">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div class="normal__breadcrumb__text">
+                    <h2>Categories Management</h2>
+                    <p>Manage your Categories here.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Normal Breadcrumb End -->
+
+<div class="wrapper wrapper--w1000">
+    <div class="card card-6">
+        <div class="card-body">
+            <div class="container">
+                <a asp-action="Create">Create New</a>
+            </div>
+        </div>
+        <div class="card-footer">
+            <table class="table " style="background-color: white;">
+                <thead>
+                    <tr>
+                        <th class="col-3">Name</th>
+                        <th class="col-5">Image</th>
+                        <th class="col-4">Tool</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                            <td>@Html.DisplayFor(modelItem => item.ImageUrl)</td>
+                            <td>
+                                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>

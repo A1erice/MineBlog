@@ -1,0 +1,112 @@
+﻿@model IEnumerable<MineBlog.Models.Blog>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Breadcrumb Begin -->
+<div class="breadcrumb-option">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="breadcrumb__links">
+                    <a asp-controller="UHome" asp-action="Index"><i class="fa fa-home"></i> Home</a>
+                    <a asp-controller="UBlogs" asp-action="Index">All Blogs</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Breadcrumb End -->
+
+<section class="product-page spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="product__page__content">
+                    <div class="product__page__title">
+                        <div class="row">
+                            <div class="col-lg-8 col-md-8 col-sm-6">
+                                <div class="section-title">
+                                    <h4>All Blogs List</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        @foreach (var item in Model)
+                        {
+                            <div class="col-12">
+                                <div class="product__item">
+                                    <div class="product__item__pic set-bg" data-setbg=@Html.Raw(item.ImageUrl)>
+                                    </div>
+                                    <div class="product__item__text">
+                                        <ul>
+                                            <li><a style="color:white;" href="#">@Html.DisplayFor(modelItem => item.Category.Name)</a></li>
+                                        </ul>
+                                        <h3>
+                                            <a asp-action ="Details" asp-route-id="@item.Id">@Html.DisplayFor(modelItem => item.Title)</a>
+                                        </h3>
+                                        <div class="blog__details__tags__one">
+                                            @if (item.Tags != null && item.Tags.Any())
+                                            {
+                                                <div class="blog__details__text">
+                                                    <p>@Html.DisplayFor(modelItem => item.Description)</p>
+                                                </div>
+                                                foreach (var tag in item.Tags)
+                                                {
+                                                    <a href="">@tag.Name</a>
+                                                }
+                                            }
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+                <div class="product__pagination">
+                    <a href="#" class="current-page">1</a>
+                    <a href="#">2</a>
+                    <a href="#">3</a>
+                    <a href="#">4</a>
+                    <a href="#">5</a>
+                    <a href="#"><i class="fa fa-angle-double-right"></i></a>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-8">
+                <div class="product__sidebar">
+                    <div class="product__sidebar__view">
+                        <div class="section-title">
+                            <h5>Top Views</h5>
+                        </div>
+                        <div class="filter__gallery">
+                            <div class="product__sidebar__view__item set-bg mix" data-setbg="img/sidebar/tv-1.jpg">
+                                <div class="view"><i class="fa fa-eye"></i> 9141</div>
+                                <h5><a href="#">The ultimate guide to get mending in Minecraft</a></h5>
+                            </div>
+                            <div class="product__sidebar__view__item set-bg mix" data-setbg="img/sidebar/tv-2.jpg">
+                                <div class="view"><i class="fa fa-eye"></i> 9141</div>
+                                <h5><a href="#">Everything about Bee in Minecraft</a></h5>
+                            </div>
+                            <div class="product__sidebar__view__item set-bg mix" data-setbg="img/sidebar/tv-3.jpg">
+                                <div class="view"><i class="fa fa-eye"></i> 9141</div>
+                                <h5><a href="#">Minecraft LIVE in October</a></h5>
+                            </div>
+                            <div class="product__sidebar__view__item set-bg mix" data-setbg="img/sidebar/tv-4.jpg">
+                                <div class="view"><i class="fa fa-eye"></i> 9141</div>
+                                <h5><a href="#">Guide to build a stronghold</a></h5>
+                            </div>
+                            <div class="product__sidebar__view__item set-bg mix" data-setbg="img/sidebar/tv-5.jpg">
+                                <div class="view"><i class="fa fa-eye"></i> 9141</div>
+                                <h5><a href="#">Minecraft Education: Guide</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Product Section End -->

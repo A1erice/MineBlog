@@ -1,0 +1,171 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MineBlog
+build_property.RootNamespace = MineBlog
+build_property.ProjectDir = C:\Users\ADMIN\source\repos\MineBlog\MineBlog\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ADMIN\source\repos\MineBlog\MineBlog
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/AAccounts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUFjY291bnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/AAccounts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUFjY291bnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/AAccounts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUFjY291bnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/AAccounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUFjY291bnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/ABlogs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUJsb2dzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/ABlogs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUJsb2dzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/ABlogs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUJsb2dzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/ABlogs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUJsb2dzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/ABlogs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUJsb2dzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/ACategories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUNhdGVnb3JpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/ACategories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUNhdGVnb3JpZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/ACategories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUNhdGVnb3JpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/ACategories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUNhdGVnb3JpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/AHome/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/ATags/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVRhZ3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/ATags/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVRhZ3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/ATags/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVRhZ3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/ATags/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVRhZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/Comments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/Comments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/Comments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/Comments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/Shared/_adminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9hZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/UBlogs/CreateIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUJsb2dzXENyZWF0ZUluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/UBlogs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUJsb2dzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/UBlogs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUJsb2dzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/UBlogs/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUJsb2dzXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/UCategories/dc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUNhdGVnb3JpZXNcZGMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/UCategories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUNhdGVnb3JpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/UHome/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/UHome/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/ULogin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUxvZ2luXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/USignup/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVVNpZ251cFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/Shared/_Comments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db21tZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-7gik8b18w3
+
+[C:/Users/ADMIN/source/repos/MineBlog/MineBlog/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lw38o2jo8b

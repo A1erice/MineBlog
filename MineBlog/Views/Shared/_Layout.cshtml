@@ -1,0 +1,163 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+
+    <meta name="description" content="Minecraft Blog">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>@ViewData["Title"] - MineBlog</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;800;900&display=swap"
+          rel="stylesheet">
+
+    <!-- Css Styles -->
+    <link rel="stylesheet" href="~/css/bootstrap.min.css" type="text/css" asp-append-version="true">
+    <link rel="stylesheet" href="~/css/font-awesome.min.css" type="text/css" asp-append-version="true">
+    <link rel="stylesheet" href="~/css/elegant-icons.css" type="text/css" asp-append-version="true">
+    <link rel="stylesheet" href="~/css/plyr.css" type="text/css" asp-append-version="true">
+    <link rel="stylesheet" href="~/css/nice-select.css" type="text/css" asp-append-version="true">
+    <link rel="stylesheet" href="~/css/owl.carousel.min.css" type="text/css" asp-append-version="true">
+    <link rel="stylesheet" href="~/css/slicknav.min.css" type="text/css" asp-append-version="true">
+    <link rel="stylesheet" href="~/css/style.css" type="text/css" asp-append-version="true">
+</head>
+<body>
+    <!-- Page Preloder -->
+    <div id="preloder">
+        <div class="loader"></div>
+    </div>
+
+    <!-- Header Section Begin -->
+    <header class="header">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-2">
+                    <div class="header__logo">
+                        <a asp-controller="UHome" asp-action="Index">
+                            <img src="~/img/logo.png" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-8">
+                    <div class="header__nav">
+                        <nav class="header__menu mobile-menu">
+                            <ul>
+                                <li class="active"><a asp-controller="UHome" asp-action="Index">Homepage</a></li>
+                                <li><a asp-controller="UBlogs" asp-action="Index">Blogs</a></li>
+                                <li>
+                                    <a asp-controller="UCategories" asp-action="Index">Categories <span class="arrow_carrot-down"></span></a>
+                                    <ul class="dropdown">
+                                        <li><a asp-controller="UBlogs" asp-action="List"
+                                               asp-route-categoryId="6">News and Update</a>
+                                        </li>
+                                        <li>
+                                            <a asp-controller="UBlogs" asp-action="List"
+                                               asp-route-categoryId="7">Mod and Resources Pack</a>
+                                        </li>
+                                        <li>
+                                            <a asp-controller="UBlogs" asp-action="List"
+                                               asp-route-categoryId="1002">Maps share</a>
+                                        </li>
+                                        <li>
+                                            <a asp-controller="UBlogs" asp-action="List"
+                                               asp-route-categoryId="2002">Tips and Tricks</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li><a asp-controller="UHome" asp-action="Index">Contacts</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+                <div class="col-lg-2">
+                    <div class="header__right">
+                        <a href="#" class="search-switch"><span class="icon_search"></span></a>
+                        <a asp-controller="ULogin" asp-action="Index"><span class="icon_profile"></span></a>
+                    </div>
+                </div>
+            </div>
+            <div id="mobile-menu-wrap"></div>
+        </div>
+    </header>
+    <!-- Header End -->
+            @RenderBody()
+
+    
+    <!-- Footer Section Begin -->
+    <footer class="footer">
+        <div class="page-up">
+            <a href="#" id="scrollToTopButton"><span class="arrow_carrot-up"></span></a>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="footer__nav">
+                        <div class="section-title">
+                            <h5>Popular Categories</h5>
+                        </div>
+                        <ul>
+                            <a asp-controller="UBlogs" asp-action="List"
+                               asp-route-categoryId="6">News and Update</a>
+                        </ul>
+                        <ul>
+                            <a asp-controller="UBlogs" asp-action="List"
+                               asp-route-categoryId="7">Mod and Resources Pack</a>
+                        </ul>
+                        <ul>
+                            <a asp-controller="UBlogs" asp-action="List"
+                               asp-route-categoryId="1002">Maps share</a>
+                        </ul>
+                        <ul>
+                            <a asp-controller="UBlogs" asp-action="List"
+                               asp-route-categoryId="2002">Tips and Tricks</a>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="footer__nav">
+                        <div class="section-title">
+                            <h5>About</h5>
+                        </div>
+                        <ul><a>Address: 273 An Duong Vuong Street</a> </ul>
+                        <ul><a>Phone: 0333464563</a></ul>
+                        <ul><a>Email: voha308@gmail.com</a></ul>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="footer__logo">
+                        <a asp-controller="UHome" asp-action="Index"><img src="~/img/logo.png" alt=""></a>
+                        <p>A Blog For Minecraft</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- Footer Section End -->
+    <!-- Search model Begin -->
+    <div class="search-model">
+        <div class="h-100 d-flex align-items-center justify-content-center">
+            <div class="search-close-switch"><i class="icon_close"></i></div>
+            <form class="search-model-form">
+                <input type="text" id="search-input" placeholder="Search here.....">
+            </form>
+        </div>
+    </div>
+    <!-- Search model end -->
+
+    <!-- Js Plugins -->
+    <script src="~/js/jquery-3.3.1.min.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script src="~/js/player.js"></script>
+    <script src="~/js/jquery.nice-select.min.js"></script>
+    <script src="~/js/mixitup.min.js"></script>
+    <script src="~/js/jquery.slicknav.js"></script>
+    <script src="~/js/owl.carousel.min.js"></script>
+    <script src="~/js/main.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+﻿@model MineBlog.Models.Comment
+
+<form asp-controller="Comments" asp-action="Create">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <input type="hidden" asp-for="AccountId" value="5" />
+    <input type="hidden" asp-for="Date" value="null" />
+    <div class="row">
+        <div class="col-lg-12">
+            <textarea asp-for="Content" placeholder="Message"></textarea>
+            <span asp-validation-for="Content" class="text-danger"></span>
+            <input asp-for="BlogId" type="hidden" value="@ViewBag.CurrentBlogId" />
+            <div class="form-group" style="display: none">
+                <label asp-for="AccountId" class="control-label"></label>
+                <select asp-for="AccountId" class="form-control" asp-items="ViewBag.AccountId"></select>
+            </div>
+            <button type="submit" value="Create" class="site-btn">Send Message</button>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,721 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MineBlog.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MineBlog.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\css\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-select.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\css\\plyr.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\Blogs\\0175349a-7b54-4b2b-9f80-7d2bde801e27.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogs\\0175349a-7b54-4b2b-9f80-7d2bde801e27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\Blogs\\0e774ed9-3f6c-4d2a-8614-c1d9c99730ab.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogs\\0e774ed9-3f6c-4d2a-8614-c1d9c99730ab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\Blogs\\489bfc2c-2319-4432-8378-ed60c0436aa2.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogs\\489bfc2c-2319-4432-8378-ed60c0436aa2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\Blogs\\4d5f806d-a5f6-44b7-a344-a5206da36ef1.png",
+      "PackagePath": "staticwebassets\\img\\Blogs\\4d5f806d-a5f6-44b7-a344-a5206da36ef1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\Blogs\\4df5b719-5ad7-4556-b450-9efeb3dcfb13.png",
+      "PackagePath": "staticwebassets\\img\\Blogs\\4df5b719-5ad7-4556-b450-9efeb3dcfb13.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\Blogs\\63e6b0d9-01c0-4af1-9fb6-c591986c9031.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogs\\63e6b0d9-01c0-4af1-9fb6-c591986c9031.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\Blogs\\6951f456-8878-4152-8eb9-9ed8e339b96b.png",
+      "PackagePath": "staticwebassets\\img\\Blogs\\6951f456-8878-4152-8eb9-9ed8e339b96b.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\Blogs\\7a6eace0-0991-41e4-890e-e3c3134eafa9.png",
+      "PackagePath": "staticwebassets\\img\\Blogs\\7a6eace0-0991-41e4-890e-e3c3134eafa9.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\Blogs\\7b2526c0-fe3e-4c06-a918-3313c389587f.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogs\\7b2526c0-fe3e-4c06-a918-3313c389587f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\Blogs\\a53e9146-96cb-4efe-b5a9-a40b7be36bd4.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogs\\a53e9146-96cb-4efe-b5a9-a40b7be36bd4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\Blogs\\add8fe94-fcaf-407d-87f8-5a019e1d4d62.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogs\\add8fe94-fcaf-407d-87f8-5a019e1d4d62.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\Blogs\\b296d535-6c70-4e7e-b1f7-f33f20975608.png",
+      "PackagePath": "staticwebassets\\img\\Blogs\\b296d535-6c70-4e7e-b1f7-f33f20975608.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\Blogs\\b6105a28-a781-43b8-8ed3-5c468dd43aea.png",
+      "PackagePath": "staticwebassets\\img\\Blogs\\b6105a28-a781-43b8-8ed3-5c468dd43aea.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\Blogs\\c407277c-2fc2-42bd-9703-52f11bfe43fb.png",
+      "PackagePath": "staticwebassets\\img\\Blogs\\c407277c-2fc2-42bd-9703-52f11bfe43fb.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\Blogs\\d581f10f-0ec7-48f4-be68-cca7b8f43f9c.png",
+      "PackagePath": "staticwebassets\\img\\Blogs\\d581f10f-0ec7-48f4-be68-cca7b8f43f9c.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\Blogs\\e6641a9b-213e-4ce9-a1df-e4f308ac63d3.png",
+      "PackagePath": "staticwebassets\\img\\Blogs\\e6641a9b-213e-4ce9-a1df-e4f308ac63d3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\Category\\272ba252-26d6-4f36-929e-50f54f745ccd.jpg",
+      "PackagePath": "staticwebassets\\img\\Category\\272ba252-26d6-4f36-929e-50f54f745ccd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\Category\\83a5272e-5d71-461b-93a1-b78fbe6c770d.jpg",
+      "PackagePath": "staticwebassets\\img\\Category\\83a5272e-5d71-461b-93a1-b78fbe6c770d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\Category\\ba45c20b-8ada-42c7-a098-08499d954b12.jpg",
+      "PackagePath": "staticwebassets\\img\\Category\\ba45c20b-8ada-42c7-a098-08499d954b12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\Category\\c28cb8a6-8102-4412-81fe-46e445153843.jpg",
+      "PackagePath": "staticwebassets\\img\\Category\\c28cb8a6-8102-4412-81fe-46e445153843.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\anime\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\details-pic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\anime\\review-1.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\review-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\anime\\review-2.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\review-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\anime\\review-3.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\review-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\anime\\review-4.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\review-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\anime\\review-5.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\review-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\anime\\review-6.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\review-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\blog\\blog-10.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\blog\\blog-11.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\blog\\blog-12.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\blog\\blog-9.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\blog\\details\\bd-item-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\bd-item-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\blog\\details\\bd-item-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\bd-item-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\blog\\details\\bd-item-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\bd-item-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\blog\\details\\blog-details-pic.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\blog-details-pic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\blog\\details\\comment-1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\comment-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\blog\\details\\comment-2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\comment-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\blog\\details\\comment-3.png",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\comment-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\hero\\hero-1.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\hero-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\hero\\hero-2.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\hero-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\hero\\hero-3.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\hero-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\live\\live-1.jpg",
+      "PackagePath": "staticwebassets\\img\\live\\live-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\live\\live-2.jpg",
+      "PackagePath": "staticwebassets\\img\\live\\live-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\live\\live-3.jpg",
+      "PackagePath": "staticwebassets\\img\\live\\live-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\live\\live-4.jpg",
+      "PackagePath": "staticwebassets\\img\\live\\live-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\live\\live-5.jpg",
+      "PackagePath": "staticwebassets\\img\\live\\live-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\live\\live-6.jpg",
+      "PackagePath": "staticwebassets\\img\\live\\live-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\normal-breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\img\\normal-breadcrumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\popular\\popular-1.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\popular\\popular-2.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\popular\\popular-3.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\popular\\popular-4.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\popular\\popular-5.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\popular\\popular-6.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\recent\\recent-1.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\recent\\recent-2.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\recent\\recent-3.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\recent\\recent-4.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\recent\\recent-5.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\recent\\recent-6.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\sidebar\\comment-1.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\comment-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\sidebar\\comment-2.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\comment-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\sidebar\\comment-3.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\comment-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\sidebar\\comment-4.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\comment-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\sidebar\\tv-1.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\tv-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\sidebar\\tv-2.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\tv-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\sidebar\\tv-3.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\tv-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\sidebar\\tv-4.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\tv-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\sidebar\\tv-5.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\tv-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\trending\\NienHope__1_-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\trending\\NienHope__1_-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\trending\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\trending\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\trending\\trend-1.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\trending\\trend-2.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\trending\\trend-3.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\trending\\trend-4.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\trending\\trend-5.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\img\\trending\\trend-6.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\js\\player.js",
+      "PackagePath": "staticwebassets\\js\\player.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\MineBlog\\MineBlog\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MineBlog.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MineBlog.props",
+      "PackagePath": "build\\MineBlog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MineBlog.props",
+      "PackagePath": "buildMultiTargeting\\MineBlog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MineBlog.props",
+      "PackagePath": "buildTransitive\\MineBlog.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

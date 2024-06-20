@@ -1,0 +1,59 @@
+﻿@model MineBlog.Models.Category
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+
+<!-- Normal Breadcrumb Begin -->
+<section class="normal-breadcrumb set-bg" style="background-image: url(/img/normal-breadcrumb.jpg)">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div class="normal__breadcrumb__text">
+                    <h2>Category Management</h2>
+                    <p>Manage your Category here.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Normal Breadcrumb End -->
+
+<div class="wrapper wrapper--w1000">
+    <form asp-action="Edit">
+        <div class="card card-6">
+            <div class="card-body">
+                <div>
+                    <a asp-action="Index">Back to List</a>
+                </div>
+            </div>
+            <div class="card-body">
+                    <!-- Hidden Edit -->
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="Id" />
+                    <!-- Hidden End -->
+                    <div class="form-row">
+                        <div class="name">Category Name</div>
+                        <div class="value">
+                            <input class="input--style-6" type="text" asp-for="Name">
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="name">Category Image</div>
+                        <div class="value">
+                            <input class="input--style-6" type="text" asp-for="ImageUrl">
+                            <span asp-validation-for="ImageUrl" class="text-danger"></span>
+                        </div>
+                    </div>
+            </div>
+            <div class="card-footer">
+                <div class="form-row">
+                    <button class="btn btn--radius-2 btn--blue-2" type="submit" style="margin-top: 10px;">Save Category</button>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
